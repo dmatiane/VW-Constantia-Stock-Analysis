@@ -1,0 +1,4 @@
+age_category,vehicle_count,distinct_makes,avg_price_incl_vat
+Current (2024+),30,9,428891.94
+Recent (2020-2023),13,6,300146.34
+Older (2015-2019),3,3,255821.22
